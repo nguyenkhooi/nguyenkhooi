@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-Khoi Tran is a data analyst, app developer, designer, and visual thinker. Believing the future as a result of all past experience, he did not settle down on earning an stats degree, but also inspired himself to be a developer using his aesthetic aptitude to build appealing and useful products. With the principles of simplicity, clarity, and structurality, he has coded, designed, and managed various projects successfully. This philosophy, along with strict self-discipline, has shaped Khoi’s interdisciplinary practice today.
+Khoi Tran is an experienced mobile/web developer and UX manager in the US and Vietnam. He does both [experimental work]("https://nguyenkhooi.tumblr.com/") and [real products]("https://l.messenger.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1KQ7P1eHdOGv0cwE9wrnIYrJv_jy72CRYLoYr59_xiOo%2Fedit%3Fusp%3Dsharing&h=AT2sq0VWoyqkp3I4giWkWsKaC31zSorxa1lruNAz29XG1roE7oGsGxlnDKcB-t-c0sM-DC6g-h6AGXytWIoH9-_evRo1SZiM_78AsyLOhEcd0swmXe5dmLtGHCCXXiakadVsrQ"). See things he likes on his blog or read a bit about him.
 
-### Fact check
+## Fact check
 
 - 🔭 Khoi is currently working on **a podcast app that recommend contents for people on-the-go**
 - 🌱 Khoi is currently learning **brain.js**
