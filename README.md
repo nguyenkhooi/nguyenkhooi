@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Khoi Tran is an experienced mobile/web developer and UX manager in the US and Vietnam. He does both **[experimental work](https://nguyenkhooi.tumblr.com/)** and **[real products](https://docs.google.com/document/d/1KQ7P1eHdOGv0cwE9wrnIYrJv_jy72CRYLoYr59_xiOo/)**. See things he likes on his blog or read a bit about him.
+Khoi Tran is an experienced mobile/web developer and UX manager in the US and Vietnam. He does both **[experimental work](https://nguyenkhooi.tumblr.com/)** and **[real products](https://docs.google.com/document/d/1KQ7P1eHdOGv0cwE9wrnIYrJv_jy72CRYLoYr59_xiOo/)**. See things he likes on his blog or read **[a bit](https://github.com/nguyenkhooi/nguyenkhooi/blob/master/About%20Khoi.md)** about him.
 
 ## Fact check
 
